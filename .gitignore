@@ -49,3 +49,10 @@ Temporary Items
 # marty's files
 .app.js.swp
 /node_modules
+*.swp
+/views/*.swp
+/controler/*.swp
+/views/layout/*.swp
+
+
+
