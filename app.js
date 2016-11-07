@@ -4,6 +4,7 @@ var app = express();
 var exphbs = require('express-handlebars');
 
 
+
 //set up template engine
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
